@@ -22,3 +22,7 @@ jika pertama kali pake postgre di php.ini, aktifkan ini:
 kemudain jalankan: `php artisan migrate`
 
 lalu: `php artisan serve`
+
+karena kita pake tailwind css, maka jalankan ini: `npm install`
+
+kemudian jalankan lagi: `npm run dev`
