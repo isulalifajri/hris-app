@@ -19,7 +19,7 @@ jika pertama kali pake postgre di php.ini, aktifkan ini:
 
 ```
 
-kemudain jalankan: `php artisan migrate`
+kemudian jalankan: `php artisan migrate`
 
 lalu: `php artisan serve`
 
